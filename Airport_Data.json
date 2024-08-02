@@ -1,0 +1,1682 @@
+[
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Express Gate",
+    "entry": 1,
+    "queue": 2
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Express Gate",
+    "entry": 1,
+    "queue": 2
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Express Gate",
+    "entry": 1,
+    "queue": 2
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Express Gate",
+    "entry": 3,
+    "queue": 3
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Express Gate",
+    "entry": 76,
+    "queue": 12
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Express Gate",
+    "entry": 113,
+    "queue": 14
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Express Gate",
+    "entry": 97,
+    "queue": 11
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Express Gate",
+    "entry": 131,
+    "queue": 13
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Express Gate",
+    "entry": 89,
+    "queue": 11
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Express Gate",
+    "entry": 63,
+    "queue": 8
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Express Gate",
+    "entry": 40,
+    "queue": 8
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Express Gate",
+    "entry": 53,
+    "queue": 9
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Express Gate",
+    "entry": 60,
+    "queue": 9
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Express Gate",
+    "entry": 44,
+    "queue": 9
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Express Gate",
+    "entry": 50,
+    "queue": 9
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Express Gate",
+    "entry": 69,
+    "queue": 9
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Express Gate",
+    "entry": 75,
+    "queue": 10
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Express Gate",
+    "entry": 72,
+    "queue": 10
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Express Gate",
+    "entry": 86,
+    "queue": 12
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Express Gate",
+    "entry": 83,
+    "queue": 12
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Express Gate",
+    "entry": 39,
+    "queue": 9
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Express Gate",
+    "entry": 3,
+    "queue": 3
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Express Gate",
+    "entry": 2,
+    "queue": 3
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Express Gate",
+    "entry": 1,
+    "queue": 4
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Gate 05",
+    "entry": 62,
+    "queue": 12
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Gate 05",
+    "entry": 73,
+    "queue": 13
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Gate 05",
+    "entry": 95,
+    "queue": 13
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Gate 05",
+    "entry": 184,
+    "queue": 17
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Gate 05",
+    "entry": 301,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Gate 05",
+    "entry": 342,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Gate 05",
+    "entry": 317,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Gate 05",
+    "entry": 388,
+    "queue": 30
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Gate 05",
+    "entry": 334,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Gate 05",
+    "entry": 287,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Gate 05",
+    "entry": 296,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Gate 05",
+    "entry": 331,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Gate 05",
+    "entry": 359,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Gate 05",
+    "entry": 322,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Gate 05",
+    "entry": 334,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Gate 05",
+    "entry": 342,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Gate 05",
+    "entry": 347,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Gate 05",
+    "entry": 321,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Gate 05",
+    "entry": 382,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Gate 05",
+    "entry": 367,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Gate 05",
+    "entry": 257,
+    "queue": 19
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Gate 05",
+    "entry": 180,
+    "queue": 17
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Gate 05",
+    "entry": 89,
+    "queue": 14
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Gate 05",
+    "entry": 49,
+    "queue": 12
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Gate 06",
+    "entry": 53,
+    "queue": 12
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Gate 06",
+    "entry": 63,
+    "queue": 13
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Gate 06",
+    "entry": 93,
+    "queue": 15
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Gate 06",
+    "entry": 174,
+    "queue": 21
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Gate 06",
+    "entry": 264,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Gate 06",
+    "entry": 294,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Gate 06",
+    "entry": 280,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Gate 06",
+    "entry": 381,
+    "queue": 29
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Gate 06",
+    "entry": 294,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Gate 06",
+    "entry": 209,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Gate 06",
+    "entry": 198,
+    "queue": 19
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Gate 06",
+    "entry": 254,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Gate 06",
+    "entry": 273,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Gate 06",
+    "entry": 216,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Gate 06",
+    "entry": 238,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Gate 06",
+    "entry": 241,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Gate 06",
+    "entry": 243,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Gate 06",
+    "entry": 221,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Gate 06",
+    "entry": 275,
+    "queue": 29
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Gate 06",
+    "entry": 265,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Gate 06",
+    "entry": 163,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Gate 06",
+    "entry": 116,
+    "queue": 17
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Gate 06",
+    "entry": 73,
+    "queue": 13
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Gate 06",
+    "entry": 62,
+    "queue": 11
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Gate 08",
+    "entry": 122,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Gate 08",
+    "entry": 146,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Gate 08",
+    "entry": 180,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Gate 08",
+    "entry": 301,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Gate 08",
+    "entry": 432,
+    "queue": 33
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Gate 08",
+    "entry": 468,
+    "queue": 35
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Gate 08",
+    "entry": 424,
+    "queue": 36
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Gate 08",
+    "entry": 601,
+    "queue": 47
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Gate 08",
+    "entry": 453,
+    "queue": 41
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Gate 08",
+    "entry": 325,
+    "queue": 30
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Gate 08",
+    "entry": 308,
+    "queue": 29
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Gate 08",
+    "entry": 398,
+    "queue": 34
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Gate 08",
+    "entry": 433,
+    "queue": 36
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Gate 08",
+    "entry": 335,
+    "queue": 34
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Gate 08",
+    "entry": 370,
+    "queue": 36
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Gate 08",
+    "entry": 376,
+    "queue": 34
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Gate 08",
+    "entry": 384,
+    "queue": 34
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Gate 08",
+    "entry": 379,
+    "queue": 39
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Gate 08",
+    "entry": 480,
+    "queue": 45
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Gate 08",
+    "entry": 443,
+    "queue": 40
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Gate 08",
+    "entry": 283,
+    "queue": 32
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Gate 08",
+    "entry": 196,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Gate 08",
+    "entry": 127,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Gate 08",
+    "entry": 93,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Gate 09",
+    "entry": 192,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Gate 09",
+    "entry": 217,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Gate 09",
+    "entry": 146,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Gate 09",
+    "entry": 165,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Gate 09",
+    "entry": 204,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Gate 09",
+    "entry": 216,
+    "queue": 30
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Gate 09",
+    "entry": 201,
+    "queue": 30
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Gate 09",
+    "entry": 346,
+    "queue": 42
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Gate 09",
+    "entry": 218,
+    "queue": 35
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Gate 09",
+    "entry": 127,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Gate 09",
+    "entry": 123,
+    "queue": 21
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Gate 09",
+    "entry": 154,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Gate 09",
+    "entry": 171,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Gate 09",
+    "entry": 137,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Gate 09",
+    "entry": 150,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Gate 09",
+    "entry": 159,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Gate 09",
+    "entry": 189,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Gate 09",
+    "entry": 254,
+    "queue": 37
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Gate 09",
+    "entry": 340,
+    "queue": 44
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Gate 09",
+    "entry": 299,
+    "queue": 37
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Gate 09",
+    "entry": 219,
+    "queue": 29
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Gate 09",
+    "entry": 180,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Gate 09",
+    "entry": 159,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Gate 09",
+    "entry": 177,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Gate 10",
+    "entry": 198,
+    "queue": 33
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Gate 10",
+    "entry": 214,
+    "queue": 31
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Gate 10",
+    "entry": 124,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Gate 10",
+    "entry": 129,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Gate 10",
+    "entry": 162,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Gate 10",
+    "entry": 172,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Gate 10",
+    "entry": 164,
+    "queue": 29
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Gate 10",
+    "entry": 281,
+    "queue": 39
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Gate 10",
+    "entry": 177,
+    "queue": 32
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Gate 10",
+    "entry": 103,
+    "queue": 21
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Gate 10",
+    "entry": 100,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Gate 10",
+    "entry": 115,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Gate 10",
+    "entry": 125,
+    "queue": 24
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Gate 10",
+    "entry": 110,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Gate 10",
+    "entry": 120,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Gate 10",
+    "entry": 125,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Gate 10",
+    "entry": 153,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Gate 10",
+    "entry": 239,
+    "queue": 38
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Gate 10",
+    "entry": 319,
+    "queue": 46
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Gate 10",
+    "entry": 271,
+    "queue": 42
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Gate 10",
+    "entry": 196,
+    "queue": 32
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Gate 10",
+    "entry": 172,
+    "queue": 31
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Gate 10",
+    "entry": 152,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Gate 10",
+    "entry": 175,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "Gate 11",
+    "entry": 183,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "Gate 11",
+    "entry": 197,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "Gate 11",
+    "entry": 109,
+    "queue": 17
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "Gate 11",
+    "entry": 113,
+    "queue": 17
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "Gate 11",
+    "entry": 142,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "Gate 11",
+    "entry": 157,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "Gate 11",
+    "entry": 150,
+    "queue": 21
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "Gate 11",
+    "entry": 254,
+    "queue": 28
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "Gate 11",
+    "entry": 159,
+    "queue": 23
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "Gate 11",
+    "entry": 93,
+    "queue": 15
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "Gate 11",
+    "entry": 90,
+    "queue": 14
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "Gate 11",
+    "entry": 104,
+    "queue": 16
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "Gate 11",
+    "entry": 113,
+    "queue": 18
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "Gate 11",
+    "entry": 99,
+    "queue": 16
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "Gate 11",
+    "entry": 108,
+    "queue": 17
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "Gate 11",
+    "entry": 112,
+    "queue": 18
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "Gate 11",
+    "entry": 139,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "Gate 11",
+    "entry": 221,
+    "queue": 27
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "Gate 11",
+    "entry": 295,
+    "queue": 33
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "Gate 11",
+    "entry": 253,
+    "queue": 30
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "Gate 11",
+    "entry": 179,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "Gate 11",
+    "entry": 158,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "Gate 11",
+    "entry": 134,
+    "queue": 21
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "Gate 11",
+    "entry": 154,
+    "queue": 20
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 39,
+    "queue": 22
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 122,
+    "queue": 38
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 133,
+    "queue": 35
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 205,
+    "queue": 48
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 291,
+    "queue": 69
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 308,
+    "queue": 72
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 288,
+    "queue": 67
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 302,
+    "queue": 81
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 293,
+    "queue": 85
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 204,
+    "queue": 59
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 203,
+    "queue": 47
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 231,
+    "queue": 57
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 253,
+    "queue": 64
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 222,
+    "queue": 60
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 217,
+    "queue": 56
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 234,
+    "queue": 62
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 238,
+    "queue": 62
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 257,
+    "queue": 61
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 281,
+    "queue": 66
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 309,
+    "queue": 72
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 236,
+    "queue": 55
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 187,
+    "queue": 46
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 86,
+    "queue": 25
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "ATRS 2 3",
+    "entry": 23,
+    "queue": 13
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 30,
+    "queue": 18
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 69,
+    "queue": 36
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 171,
+    "queue": 41
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 238,
+    "queue": 63
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 324,
+    "queue": 89
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 343,
+    "queue": 90
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 321,
+    "queue": 86
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 341,
+    "queue": 108
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 358,
+    "queue": 122
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 294,
+    "queue": 74
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 273,
+    "queue": 53
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 307,
+    "queue": 62
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 338,
+    "queue": 72
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 301,
+    "queue": 68
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 295,
+    "queue": 62
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 300,
+    "queue": 69
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 289,
+    "queue": 71
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 295,
+    "queue": 71
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 289,
+    "queue": 78
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 317,
+    "queue": 90
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 281,
+    "queue": 71
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 242,
+    "queue": 57
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 166,
+    "queue": 37
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "ATRS 4 5",
+    "entry": 91,
+    "queue": 26
+  },
+  {
+    "date": "2023-09-26",
+    "time": "00:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 180,
+    "queue": 58
+  },
+  {
+    "date": "2023-09-26",
+    "time": "01:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 51,
+    "queue": 32
+  },
+  {
+    "date": "2023-09-26",
+    "time": "02:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 38,
+    "queue": 29
+  },
+  {
+    "date": "2023-09-26",
+    "time": "03:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 190,
+    "queue": 60
+  },
+  {
+    "date": "2023-09-26",
+    "time": "04:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 294,
+    "queue": 86
+  },
+  {
+    "date": "2023-09-26",
+    "time": "05:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 321,
+    "queue": 90
+  },
+  {
+    "date": "2023-09-26",
+    "time": "06:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 299,
+    "queue": 86
+  },
+  {
+    "date": "2023-09-26",
+    "time": "07:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 326,
+    "queue": 108
+  },
+  {
+    "date": "2023-09-26",
+    "time": "08:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 344,
+    "queue": 119
+  },
+  {
+    "date": "2023-09-26",
+    "time": "09:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 281,
+    "queue": 78
+  },
+  {
+    "date": "2023-09-26",
+    "time": "10:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 257,
+    "queue": 59
+  },
+  {
+    "date": "2023-09-26",
+    "time": "11:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 286,
+    "queue": 69
+  },
+  {
+    "date": "2023-09-26",
+    "time": "12:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 316,
+    "queue": 80
+  },
+  {
+    "date": "2023-09-26",
+    "time": "13:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 280,
+    "queue": 76
+  },
+  {
+    "date": "2023-09-26",
+    "time": "14:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 275,
+    "queue": 69
+  },
+  {
+    "date": "2023-09-26",
+    "time": "15:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 282,
+    "queue": 77
+  },
+  {
+    "date": "2023-09-26",
+    "time": "16:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 272,
+    "queue": 78
+  },
+  {
+    "date": "2023-09-26",
+    "time": "17:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 283,
+    "queue": 76
+  },
+  {
+    "date": "2023-09-26",
+    "time": "18:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 276,
+    "queue": 82
+  },
+  {
+    "date": "2023-09-26",
+    "time": "19:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 309,
+    "queue": 93
+  },
+  {
+    "date": "2023-09-26",
+    "time": "20:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 271,
+    "queue": 77
+  },
+  {
+    "date": "2023-09-26",
+    "time": "21:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 238,
+    "queue": 66
+  },
+  {
+    "date": "2023-09-26",
+    "time": "22:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 162,
+    "queue": 44
+  },
+  {
+    "date": "2023-09-26",
+    "time": "23:00",
+    "ZoneName": "ATRS 6 7",
+    "entry": 135,
+    "queue": 37
+  }
+]
